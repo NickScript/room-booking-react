@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Deluxe Ocean View Room",
+    "maxcount": 2,
+    "phonenumber": 254712345678,
+    "rentperday": 8500,
+    "imageurls": [
+      "https://www.pinterest.com/avnerq/hotel-room-design/",
+      "https://www.pinterest.com/manarmaher56/hotel-bedrooms/"
+    ],
+    "currentbookings": [],
+    "type": "deluxe",
+    "description": "Spacious deluxe room with balcony, air conditioning and WiFi"
+  },
+  {
+    "name": "Standard City Room",
+    "maxcount": 2,
+    "phonenumber": 254798765432,
+    "rentperday": 4500,
+    "imageurls": [
+      "https://www.pinterest.com/avnerq/hotel-room-design/"
+    ],
+    "currentbookings": [],
+    "type": "standard",
+    "description": "Comfortable room with private bathroom and television"
+  }
+]
